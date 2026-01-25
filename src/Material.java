@@ -1,5 +1,5 @@
 // Enumeration for Frame Material
-enum Material {
+public enum Material {
     STEEL,
     CHROMOLY_STEEL,
     ALUMINUM_ALLOY,
